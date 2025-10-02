@@ -82,7 +82,7 @@ const About = () => {
       <div className="text-center py-8 border-t">
         <p className="text-muted-foreground">
           App Published by{" "}
-          <span className="font-semibold text-foreground">Your Name</span>
+          <span className="font-semibold text-foreground">Naga Sekhar Madala</span>
         </p>
       </div>
     </div>
